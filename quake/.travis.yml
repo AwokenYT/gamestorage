@@ -1,0 +1,14 @@
+language: haxe
+
+sudo: false
+
+branches:
+  only:
+    - gh-pages
+
+haxe:
+  - development
+
+script:
+  - cd Client
+  - haxe build.hxml
