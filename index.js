@@ -1,4 +1,4 @@
-fetch('https://raw.githubusercontent.com/AwokenYT/nostalking.lol/master/static/assets/JSON/games.json')
+fetch('https://raw.githubusercontent.com/AwokenYT/nostalking/master/static/assets/JSON/games.json')
   .then(response => response.json())
   .then(data => {
     const games = data;
