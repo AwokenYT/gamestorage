@@ -1,30 +1,49 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pandemic 2</title>
-    <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+    <style>
+        html, body, #player-container {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #000; /* Optional: to fill any extra space with black */
+        }
 
+        #player-container {
+            position: relative;
+            width: 100%;
+            height: 100%;
+        }
+        canvas, object {
+            width: 100%;
+            height: 100%;
+            object-fit: contain; /* Ensures the SWF scales proportionally */
+        }
+    </style>
 </head>
 <body>
-    <div id="player-container">
-        <script>
-            // Initialize Ruffle
-            window.RufflePlayer = window.RufflePlayer || {};
-            const ruffle = window.RufflePlayer.newest();
-            const player = ruffle.createPlayer();
-            
-            // Append the player to the container
-            const container = document.getElementById("player-container");
-            container.appendChild(player);
+    <div id="player-container"></div>
 
-            // Load the SWF file automatically
-            player.load("pandemic2.swf"); // Replace with your actual SWF file
-        </script>
-    </div>
+    <script>
+        // Initialize Ruffle
+        window.RufflePlayer = window.RufflePlayer || {};
+        const ruffle = window.RufflePlayer.newest();
+        const player = ruffle.createPlayer();
+
+        // Append the player to the container
+        const container = document.getElementById("player-container");
+        container.appendChild(player);
+
+        // Load the SWF file automatically
+        player.load("pandemic2.swf"); // Replace with your SWF file path
+    </script>
 </body>
-
 </html>

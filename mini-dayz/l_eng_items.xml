@@ -67,7 +67,7 @@
 
 <item>
 	<id>13</id>
-	<name>7.62x 54 ammo</name>
+	<name>7.62 ammo</name>
 </item>
 
 <item>
@@ -227,7 +227,7 @@
 
 <item>
 	<id>45</id>
-	<name>Morphine</name>
+	<name>Adrenaline</name>
 </item>
 
 <item>
@@ -322,7 +322,7 @@
 
 <item>
 	<id>69</id>
-	<name>9x19 ammo</name>
+	<name>9mm ammo</name>
 </item>
 
 <item>
@@ -357,7 +357,7 @@
 
 <item>
 	<id>76</id>
-	<name>Holosight</name>
+	<name>RDS scope</name>
 </item>
 
 <item>
@@ -377,12 +377,12 @@
 
 <item>
 	<id>80</id>
-	<name>Silencer 5.45x39</name>
+	<name>Silencer 5.45</name>
 </item>
 
 <item>
 	<id>81</id>
-	<name>Silencer 5.56x45</name>
+	<name>Silencer 5.56</name>
 </item>
 
 <item>
@@ -409,7 +409,7 @@
 
 <item>
 	<id>153</id>
-	<name>Deagle</name>
+	<name>Magnum</name>
 </item>
 
 <item>
@@ -419,7 +419,7 @@
 
 <item>
 	<id>155</id>
-	<name>Ramington</name>
+	<name>Remington shotgun</name>
 </item>
 
 <item>
@@ -429,12 +429,12 @@
 
 <item>
 	<id>157</id>
-	<name>SKS-MOD</name>
+	<name>SKS</name>
 </item>
 
 <item>
 	<id>158</id>
-	<name>MK18</name>
+	<name>M4 carbine</name>
 </item>
 
 <item>
@@ -454,7 +454,7 @@
 
 <item>
 	<id>162</id>
-	<name>MDR</name>
+	<name>L85</name>
 </item>
 
 <item>
@@ -479,7 +479,7 @@
 
 <item>
 	<id>167</id>
-	<name>Mare's leg</name>
+	<name>Repeater</name>
 </item>
 
 <item>
@@ -489,7 +489,7 @@
 
 <item>
 	<id>169</id>
-	<name>MP5k </name>
+	<name>MP5k</name>
 </item>
 
 <item>
@@ -509,7 +509,7 @@
 
 <item>
 	<id>173</id>
-	<name>Vector</name>
+	<name>UMP-45</name>
 </item>
 
 <item>
@@ -519,7 +519,7 @@
 
 <item>
 	<id>175</id>
-	<name>SCAR-H</name>
+	<name>FN-CAL</name>
 </item>
 
 <item>
@@ -593,7 +593,7 @@
 
 <item>
 	<id>251</id>
-	<name>Tactical helmet</name>
+	<name>Army helmet</name>
 </item>
 
 <item>
@@ -653,7 +653,7 @@
 
 <item>
 	<id>263</id>
-	<name>Alyten helmet</name>
+	<name>Gorka helmet</name>
 </item>
 
 <item>
@@ -675,6 +675,7 @@
 	<id>267</id>
 	<name>Helm</name>
 </item>
+
 <!--Pants-->
 
 <item>
@@ -694,7 +695,7 @@
 
 <item>
 	<id>303</id>
-	<name>Spetznas pants</name>
+	<name>Gorka pants</name>
 </item>
 
 <item>
@@ -709,7 +710,7 @@
 
 <item>
 	<id>306</id>
-	<name>Ghillie pants</name>
+	<name>Hunter pants</name>
 </item>
 
 <!--Outerwears-->
@@ -741,7 +742,7 @@
 
 <item>
 	<id>355</id>
-	<name>Spetznas jacket</name>
+	<name>Gorka jacket</name>
 </item>
 
 <item>
@@ -786,7 +787,7 @@
 
 <item>
 	<id>364</id>
-	<name>Ghillie top</name>
+	<name>Hunter jacket</name>
 </item>
 
 <item>
@@ -860,7 +861,7 @@
 
 <item>
 	<id>457</id>
-	<name>Tortillia Backpack</name>
+	<name>Tortilla backpack</name>
 </item>
 
 <!--Update 1.3.0-->
@@ -1004,22 +1005,194 @@
 
 <item>
 	<id>185</id>
-	<name>AS VAL</name>
+	<name>VSS</name>
 </item>
 
 <item>
 	<id>186</id>
-	<name>L96</name>
+	<name>SV-98</name>
 </item>
 
 <item>
 	<id>187</id>
-	<name>Lewis gun</name>
+	<name>Madsen</name>
 </item>
 
 <item>
 	<id>405</id>
 	<name>Soviet vest</name>
+</item>
+
+<!--Update 1.6.0 inventory items-->
+<item>
+	<id>103</id>
+	<name>Flare gun</name>
+</item>
+
+<item>
+	<id>104</id>
+	<name>.308 Ammo</name>
+</item>
+
+<item>
+	<id>105</id>
+	<name>40mm Grenade</name>
+</item>
+
+<item>
+	<id>106</id>
+	<name>VOG-25</name>
+</item>
+
+<item>
+	<id>107</id>
+	<name>M203</name>
+</item>
+
+<item>
+	<id>108</id>
+	<name>GP-25</name>
+</item>
+
+<item>
+	<id>109</id>
+	<name>IV kit</name>
+</item>
+
+<item>
+	<id>110</id>
+	<name>Sharpening Stone</name>
+</item>
+
+<item>
+	<id>111</id>
+	<name>AK Grip</name>
+</item>
+
+<item>
+	<id>112</id>
+	<name>Rail Grip</name>
+</item>
+
+<item>
+	<id>113</id>
+	<name>Map Notes</name>
+</item>
+
+<item>
+	<id>114</id>
+	<name>Elderberry</name>
+</item>
+
+<item>
+	<id>115</id>
+	<name>Binoculars</name>
+</item>
+
+<item>
+	<id>116</id>
+	<name>Scout book</name>
+</item>
+
+<item>
+	<id>117</id>
+	<name>Canvas</name>
+</item>
+
+<item>
+	<id>118</id>
+	<name>Adhesive plaster</name>
+</item>
+
+<item>
+	<id>119</id>
+	<name>Smoke grenade</name>
+</item>
+
+<item>
+	<id>120</id>
+	<name>Cigarettes</name>
+</item>
+
+<item>
+	<id>121</id>
+	<name>Beer</name>
+</item>
+
+<item>
+	<id>122</id>
+	<name>Epoxy glue</name>
+</item>
+
+<item>
+	<id>123</id>
+	<name>Fertilizer</name>
+</item>
+
+<item>
+	<id>124</id>
+	<name>Laser Sight</name>
+</item>
+
+<item>
+	<id>125</id>
+	<name>Lighter</name>
+</item>
+
+<item>
+	<id>126</id>
+	<name>Officer's keycard</name>
+</item>
+
+<!--Update 1.5.0 gear and weapons-->
+<item>
+	<id>366</id>
+	<name>Awesome Hoodie</name>
+</item>
+
+<item>
+	<id>406</id>
+	<name>Apron</name>
+</item>
+
+<item>
+	<id>458</id>
+	<name>Crossbody bag</name>
+</item>
+
+<item>
+	<id>188</id>
+	<name>AN-94</name>
+</item>
+
+<item>
+	<id>189</id>
+	<name>Desert Eagle</name>
+</item>
+
+<item>
+	<id>190</id>
+	<name>Silenced Remington</name>
+</item>
+
+<item>
+	<id>191</id>
+	<name>M16A2</name>
+</item>
+
+<item>
+	<id>192</id>
+	<name>Vector</name>
+</item>
+
+<item>
+	<id>211</id>
+	<name>Katana</name>
+</item>
+
+<item>
+	<id>268</id>
+	<name>Pilot Helmet</name>
 </item>
 
 </list>

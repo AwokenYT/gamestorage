@@ -2,11 +2,11 @@
 <list>
 	<item>
 		<id>1</id>
-		<name>Консервированные бобы</name>
+		<name>Конс. бобы</name>
 	</item>
 	<item>
 		<id>2</id>
-		<name>Консервированный тунец</name>
+		<name>Конс. тунец</name>
 	</item>
 	<item>
 		<id>3</id>
@@ -178,7 +178,7 @@
 	</item>
 	<item>
 		<id>45</id>
-		<name>Морфий</name>
+		<name>Адреналин</name>
 	</item>
 	<item>
 		<id>46</id>
@@ -633,7 +633,7 @@
 		<id>364</id>
 		<name>Куртка охотник</name>
 	</item>
-		<item>
+	<item>
 		<id>365</id>
 		<name>Свитер</name>
 	</item>
@@ -851,5 +851,181 @@
 	<name>Советский бронежилет</name>
 </item>
 
+<!--Update 1.6.0 inventory items
+Hello from Cannedbits
+Привет мододелам :)
+-->
+
+<item>
+	<id>103</id>
+	<name>Сигнальная ракетница.</name>
+</item>
+
+<item>
+	<id>104</id>
+	<name>.308 Боеприпасы</name>
+</item>
+
+<item>
+	<id>105</id>
+	<name>40мм граната</name>
+</item>
+
+<item>
+	<id>106</id>
+	<name>ВОГ-25</name>
+</item>
+
+<item>
+	<id>107</id>
+	<name>M203</name>
+</item>
+
+<item>
+	<id>108</id>
+	<name>ГП-25</name>
+</item>
+
+<item>
+	<id>109</id>
+	<name>IV набор</name>
+</item>
+
+<item>
+	<id>110</id>
+	<name>Точильный камень</name>
+</item>
+
+<item>
+	<id>111</id>
+	<name>AK Цевье</name>
+</item>
+
+<item>
+	<id>112</id>
+	<name>Рукоять</name>
+</item>
+
+<item>
+	<id>113</id>
+	<name>Заметки</name>
+</item>
+
+<item>
+	<id>114</id>
+	<name>Бузина</name>
+</item>
+
+<item>
+	<id>115</id>
+	<name>Бинокль</name>
+</item>
+
+<item>
+	<id>116</id>
+	<name>Книга выживальщика</name>
+</item>
+
+<item>
+	<id>117</id>
+	<name>Брезент</name>
+</item>
+
+<item>
+	<id>118</id>
+	<name>Пластырь</name>
+</item>
+
+<item>
+	<id>119</id>
+	<name>Дымовая граната</name>
+</item>
+
+<item>
+	<id>120</id>
+	<name>Сигареты</name>
+</item>
+
+<item>
+	<id>121</id>
+	<name>Пиво</name>
+</item>
+
+<item>
+	<id>122</id>
+	<name>Клей</name>
+</item>
+
+<item>
+	<id>123</id>
+	<name>Удобрение</name>
+</item>
+
+<item>
+	<id>124</id>
+	<name>ЛЦУ</name>
+</item>
+
+<item>
+	<id>125</id>
+	<name>Зажигалка</name>
+</item>
+
+<item>
+	<id>126</id>
+	<name>Ключ-карта Офицера</name>
+</item>
+
+<!--Update 1.5.0 gear and weapons-->
+
+<item>
+	<id>366</id>
+	<name>Кайфовый худи</name>
+</item>
+
+<item>
+	<id>406</id>
+	<name>Фартук</name>
+</item>
+
+<item>
+	<id>458</id>
+	<name>Поясная сумка</name>
+</item>
+
+<item>
+	<id>188</id>
+	<name>АН-94</name>
+</item>
+
+<item>
+	<id>189</id>
+	<name>Дигл</name>
+</item>
+
+<item>
+	<id>190</id>
+	<name>Инструмент Чигура</name>
+</item>
+
+<item>
+	<id>191</id>
+	<name>M16A2</name>
+</item>
+
+<item>
+	<id>192</id>
+	<name>Vector</name>
+</item>
+
+<item>
+	<id>211</id>
+	<name>Катана</name>
+</item>
+
+<item>
+	<id>268</id>
+	<name>Шлем пилота</name>
+</item>
 
 </list>
