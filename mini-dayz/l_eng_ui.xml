@@ -108,7 +108,7 @@
 
 <text>
 	<id>22</id>
-	<name>Bits is always watching</name>
+	<name>Creating minimap</name>
 </text>
 
 <!-- Menu btns-->
@@ -382,20 +382,21 @@ On any difficulty.</name>
 	<id>74</id>
 	<name>Lee "Maniac"
 Kill a bandit survivor with any axe. 
-On "Regular" or "Veteran" difficulty.</name>
+On "Regular" or higher difficulty.</name>
 </text>
 
 <text>
 	<id>75</id>
 	<name>Sergey "Slav"
 Unlock requirement: Kill 3 other survivors in one run.
-On "Regular" or "Veteran" difficulty.</name>
+On "Regular" or higher difficulty.</name>
 </text>
 
 <text>
 	<id>76</id>
 	<name>John "Biker"
-Unlock requirement: Carry a rider jacket, a moto helmet and a pipe wrench all at once. On "Regular" or "Veteran" difficulty.
+Unlock requirement: Carry a rider jacket, a moto helmet and a pipe wrench all at once.
+On "Regular" or higher difficulty.
 </name>
 </text>
 
@@ -403,20 +404,21 @@ Unlock requirement: Carry a rider jacket, a moto helmet and a pipe wrench all at
 	<id>77</id>
 	<name>Ganzo "Dragon"
 Unlock requirement: Kill 4 enemy survivors armed with a firearm.
-On "Veteran" difficulty.</name>
+On "Veteran" or higher difficulty.</name>
 </text>
 
 <text>
 	<id>78</id>
 	<name>Tom "Survivor"
 Unlock requirement: Survive for 7 days. 
-On "Veteran" difficulty.</name>
+On "Veteran" or higher difficulty.</name>
 </text>
 
 <text>
 	<id>79</id>
 	<name>Garry "Veteran"
-Unlock requirement: Carry a spetznas set (spetznas pants, spetznas jacket, Alyten helmet) in one run, all at once. On "Veteran" difficulty.</name>
+Unlock requirement: Carry a gorka set (gorka pants, gorka jacket, gorka helmet) in one run, all at once.
+On "Veteran" or higher difficulty.</name>
 </text>
 
 <text>
@@ -499,7 +501,7 @@ Unlocked perks: Hunter, Survivalist.</name>
 <text>
 	<id>91</id>
 	<name>Garry "Veteran"
-Starting gear: jeans, t-shirt, cap, balaclava (static),bulletproof vest, colt 1911, ammo.
+Starting gear: jeans, t-shirt, cap, bulletproof vest, colt 1911, ammo.
 Unlocked perks: Sharpshooter, Scout.</name>
 </text>
 
@@ -562,7 +564,7 @@ Unlocked perks: Sharpshooter, Scout.</name>
 
 <text>
 	<id>107</id>
-	<name>Operator</name>
+	<name>Assault</name>
 </text>
 
 <text>
@@ -612,7 +614,7 @@ Unlocked perks: Sharpshooter, Scout.</name>
 
 <text>
 	<id>117</id>
-	<name>Stealy wheely auto mobilie</name>
+	<name>Trunk Raider</name>
 </text>
 
 <text>
@@ -1169,7 +1171,7 @@ There are multiple islands to visit, but beware! Once you get to another island 
 
 <text>
 	<id>300</id>
-	<name>Crafted fences and barbwires can slowdown enemies in case of attack.</name>
+	<name>Crafted fences(Wood piles + Sticks x5) and barbwires can slowdown enemies in case of attack.</name>
 </text>
 
 
@@ -1382,97 +1384,114 @@ There are multiple islands to visit, but beware! Once you get to another island 
 <text>
 	<id>400</id>
 	<name>Sharpshooter
-Increases a chance of headshot with a ranged weapon.</name>
+lvl 1: Increases chance to make a headshot with ranged weapon by 10%.
+lvl 2: Increases headshot damage by 30%.</name>
 </text>
 
 <text>
 	<id>401</id>
 	<name>Scout
-You can spot enemy survivors from a greater distance.</name>
+lvl 1: You can spot other survivors from a greater distance.
+lvl 2: You can detect hostility of other survivors.</name>
 </text>
 
 <text>
 	<id>402</id>
 	<name>Sprinter
-Run speed increases by 10%.</name>
+lvl 1: Movement speed increased on 5%
+lvl 2: Movement speed increased on 10%</name>
 </text>
 
 <text>
 	<id>403</id>
 	<name>Camel
-Thirst rate decreases by 15%.</name>
+lvl 1: Thirst rate decreases by 10%.
+lvl 2: All canned drinks gives additionaly +10 Water.</name>
 </text>
 
 <text>
 	<id>404</id>
 	<name>Hamster
-Hunger rate decreases by 15%.</name>
+lvl 1: Hunger rate decreases by 10%.
+lvl 2: All canned goods gives additionaly +10 Food.</name>
 </text>
 
 <text>
 	<id>405</id>
 	<name>Snowborn
-Cold resistance increases by 20%.</name>
+lvl 1: Raining and snowing drains heat 50% slower.
+lvl 2: You got +2 heat constantly.</name>
 </text>
 
 <text>
 	<id>406</id>
 	<name>The Bullet Farmer
-Each ammo stack you find contains +3 bullets.</name>
+lvl 1: All found weapons will contain at least one bullet.
+lvl 2: All ammo stacks you found will contain 5 more bullets.</name>
 </text>
 
 <text>
 	<id>407</id>
 	<name>Survivalist
-Regeneration speed doubles if your blood drops under 50%.</name>
+lvl 1: Regeneration speed doubles if your blood drops under 50%.
+lvl 2: You get +10% movement speed if your blood drops under 20%.</name>
 </text>
 
 <text>
 	<id>408</id>
 	<name>Blocker
-Increases chance to block enemy attacks in melee fight.</name>
+lvl 1: Increases chance to block enemy attacks in melee fight by 5%.
+lvl 2: Increases chance to block enemy attacks in melee fight by 15%.</name>
 </text>
 
 <text>
 	<id>409</id>
 	<name>Puncher
-Increases chance to deal multiple damage attack in melee fight.</name>
+lvl 1: Increases chance to deal critical hits in melee fight by 10%.
+lvl 2: Increases critical hit damage in melee fight by 30%.</name>
 </text>
 
 <text>
 	<id>410</id>
 	<name>Trunk Digger
-Increases chance to find loot in car trunks.</name>
+lvl 1: +20% chance to find loot in car trunks.
+lvl 2: Adds 10% chance to find 2 items in car trunk.
+</name>
 </text>
 
 <text>
 	<id>411</id>
 	<name>Hunter
-Animals have a smaller chance to spot the player.</name>
+lvl 1: Animals have a smaller chance to spot you.
+lvl 2: You get 50% chance to get additional steak when skinning animals.</name>
 </text>
 
 <text>
 	<id>412</id>
 	<name>Sweet home
-Staying inside buildings adds 50% more heat.</name>
+lvl 1: Staying inside buildings adds 50% more heat.
+lvl 2: When sleeping you hunger and thirst slowers by 30%.</name>
 </text>
 
 <text>
 	<id>413</id>
 	<name>Red+
-Lowers the blood loss when the player is bleeding or feels sick.</name>
+lvl 1: Lowers the blood loss when bleeding by 50%.
+lvl 2: Bleeding stops 2 times faster.</name>
 </text>
 
 <text>
 	<id>414</id>
-	<name>Nightcrawler
-You see a little better in the night.</name>
+	<name>Vigilance
+lvl 1: You can spot hidden enemies more easily.
+lvl 2: You see a little better in the night.</name>
 </text>
 
 <text>
 	<id>415</id>
 	<name>Agronomist
-You gather more berries. None of your plants will ever wither.</name>
+lvl 1: You get 50% chance to get more berries when gathering wild berries.
+lvl 2: You get 50% chance to get more vegerables when gathering your plants.</name>
 </text>
 
 <text>
@@ -1497,7 +1516,7 @@ You gather more berries. None of your plants will ever wither.</name>
 
 <text>
 	<id>455</id>
-	<name>Welcome, survivor to MiniDayZ Reloaded! You are trapped on a small island, and your only chance to get to another one is to find a boat.</name>
+	<name>Welcome, survivor. You are trapped on a small island, and your only chance to get to another one is to find a boat.</name>
 </text>
 
 <text>
@@ -1532,7 +1551,7 @@ You gather more berries. None of your plants will ever wither.</name>
 
 <text>
 	<id>462</id>
-	<name>Now you have a ranged weapon (Mk18), aiming happens automatically. Use this button to shoot.</name>
+	<name>Now you have a ranged weapon, aiming happens automatically. Use this button to shoot.</name>
 </text>
 
 <text>
@@ -1553,7 +1572,7 @@ Find a bandage or tear your t-shirt into rags.</name>
 
 <text>
 	<id>466</id>
-	<name>Realy?Your blood level dropped to zero. Lucky for you it is only a tutorial and you will be healed now. Go on.</name>
+	<name>Your blood level dropped to zero. Lucky for you it is only a tutorial and you will be healed now. Go on.</name>
 </text>
 
 <text>
@@ -1563,7 +1582,7 @@ Find a bandage or tear your t-shirt into rags.</name>
 
 <text>
 	<id>468</id>
-	<name>Look, that’s a firearm. It can usually be found on military locations or not.</name>
+	<name>Look, that’s a firearm. It can usually be found on military locations.</name>
 </text>
 <!-- Tutorial text hints that appear above objects in tutorial cuts -->
 
@@ -1799,12 +1818,12 @@ Find a bandage or tear your t-shirt into rags.</name>
 
 <text>
 	<id>357</id>
-	<name>Bunker unavailable, try later.</name>
+	<name>Bunker will be avaliable after </name>
 </text>
 
 <text>
 	<id>358</id>
-	<name>More games</name>
+	<name>MINI DayZ 2</name>
 </text>
 
 <text>
@@ -1846,7 +1865,7 @@ Find a bandage or tear your t-shirt into rags.</name>
 
 <text>
 	<id>245</id>
-	<name>Optic scopes - reduce spread, +10% headshot chance</name>
+	<name>Optic scopes - reduce spread, and increase headshot chance</name>
 </text>
 
 <text>
@@ -1865,7 +1884,7 @@ Find a bandage or tear your t-shirt into rags.</name>
 	<id>92</id>
 	<name>Kate "Tourist"
 Starting gear: jeans, raincoat, civilian tent, headlamp.
-Unlocked perks: Hunter, Nightcrawler.</name>
+Unlocked perks: Hunter, Vigilance.</name>
 </text>
 
 <text>
@@ -1885,8 +1904,8 @@ Unlocked perks: Sprinter, Scout.</name>
 <text>
 	<id>140</id>
 	<name>Kate "Tourist"
-Unlock requirement: Find two different drivable vehicles on the 4th island.
-On "Veteran" difficulty.
+Unlock requirement: Find two different drivable vehicles on the 4th island or later.
+On "Veteran" or higher difficulty.
 </name>
 </text>
 
@@ -1894,7 +1913,7 @@ On "Veteran" difficulty.
 	<id>141</id>
 	<name>Jasmine "Lumber"
 Unlock requirement: Drop your karma to -100 and then rise it to +100 in one run.
-On "Veteran" difficulty.
+On "Veteran" or higher difficulty.
 </name>
 </text>
 
@@ -1902,7 +1921,7 @@ On "Veteran" difficulty.
 	<id>142</id>
 	<name>Aika "Stringer"
 Unlock requirement: Complete 3 tasks from survivors in one run.
-On "Veteran" difficulty.
+On "Veteran" or higher difficulty.
 </name>
 </text>
 
@@ -2061,7 +2080,7 @@ On "Veteran" difficulty.
 	<id>392</id>
 	<name>MAC-10
 Unlock requirement: Kill 200 infected in total with any pistols.
-On "Regular" or "Veteran" difficulty.
+On "Regular" or higher difficulty.
 Current status:</name>
 </text>
 
@@ -2069,7 +2088,7 @@ Current status:</name>
 	<id>393</id>
 	<name>Saiga-12k
 Unlock requirement: Kill 150 infected in total with any shotguns.
-On "Regular" or "Veteran" difficulty.
+On "Regular" or higher difficulty.
 Current status:</name>
 </text>
 
@@ -2077,7 +2096,7 @@ Current status:</name>
 	<id>394</id>
 	<name>AUG
 Unlock requirement: Kill 200 infected in total with any full-auto weapon or SMG.
-On "Regular" or "Veteran" difficulty.
+On "Regular" or higher difficulty.
 Current status:</name>
 </text>
 
@@ -2114,31 +2133,31 @@ Locations: NATO vehicles crash sites, Underground bunkers, NATO Military bases.
 
 <text>
 	<id>416</id>
-	<name>AS VAL
+	<name>VSS
 Unlock requirement: Find 6 helicopter crashes in one run.
-On "Veteran" difficulty.
+On "Veteran" or higher difficulty.
 Current status:</name>
 </text>
 
 <text>
 	<id>417</id>
-	<name>AS VAL
+	<name>VSS
 Unlocked.
 Locations: Underground bunkers, EAST Military bases.</name>
 </text>
 
 <text>
 	<id>418</id>
-	<name>L96
+	<name>SV-98
 Unlock requirement: Make 200 headshot kills to infecteds with rifles.
 (Mosin Nagant, SKS ,SVD, Repeater).
-On "Veteran" difficulty.
+On "Veteran" or higher difficulty.
 Current status:</name>
 </text>
 
 <text>
 	<id>419</id>
-	<name>L96
+	<name>SV-98
 Unlocked.
 Locations: Underground bunkers.</name>
 </text>
