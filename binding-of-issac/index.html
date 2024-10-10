@@ -1,15 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Binding of Issac</title>
-    <!-- Ruffle JS -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pandemic 2</title>
     <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
-  </head>
-  <body>
-    <div>
-      <object width=100% height=100% data="./isaac.swf"></object>
-    </div>
-  </body>
+    <style>
+        html, body, #player-container {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #000; /* Optional: to fill any extra space with black */
+        }
+
+        #player-container {
+            position: relative;
+            width: 100%;
+            height: 100%;
+        }
+        canvas, object {
+            width: 100%;
+            height: 100%;
+            object-fit: contain; /* Ensures the SWF scales proportionally */
+        }
+    </style>
+</head>
+<body>
+    <div id="player-container"></div>
+
+    <script>
+        // Initialize Ruffle
+        window.RufflePlayer = window.RufflePlayer || {};
+        const ruffle = window.RufflePlayer.newest();
+        const player = ruffle.createPlayer();
+
+        // Append the player to the container
+        const container = document.getElementById("player-container");
+        container.appendChild(player);
+
+        // Load the SWF file automatically
+        player.load("isaac.swf"); // Replace with your SWF file path
+    </script>
+</body>
 </html>
