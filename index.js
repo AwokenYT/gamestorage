@@ -29,19 +29,52 @@ fetch("./games.json")
       // Display the search results
       searchResults.innerHTML = "";
       filteredGames.forEach((game) => {
+        const gameCard = document.createElement("div");
+        gameCard.classList.add("game-card");
+
         const img = document.createElement("img");
         const gameInfoDiv = document.createElement("div");
-        const gameDetailsDiv = document.createElement("div");
+        const gameButton = document.createElement("a");
+
         const fixedSrc = `https://awokenyt.github.io/gamestorage/${game.image.replace(
           "/cdn/",
           ""
         )}`;
 
-        img.src = fixedSrc;
+        // Create a new Image object to test if the image loads correctly
+        const testImage = new Image();
+        testImage.src = fixedSrc;
+
+        // Set a handler for the image loading error
+        testImage.onerror = () => {
+          // Fallback to the default image
+          img.src = "https://static.thenounproject.com/png/482114-200.png"; // Fallback image
+        };
+
+        // Set a handler for successful image load
+        testImage.onload = () => {
+          // If the image loads successfully, set it as the src for the actual img element
+          img.src = fixedSrc;
+        };
+
+        // Set alt, dimensions, and classes for the img element
+        img.alt = game.name;
+        img.width = 200;  // Enforce image width
+        img.height = 200; // Enforce image height
+        img.classList.add("game-img");
+
+        // Set game info and button
         gameInfoDiv.textContent = `${game.name} (Game ID: ${game.id})`;
-        gameDetailsDiv.appendChild(img);
-        gameDetailsDiv.appendChild(gameInfoDiv);
-        searchResults.appendChild(gameDetailsDiv);
+
+        gameButton.href = `https://awokenyt.github.io/gamestorage/index.html?id=${game.id}`;
+        gameButton.textContent = "Play";
+        gameButton.classList.add("game-button");
+
+        // Append elements to the card
+        gameCard.appendChild(img);
+        gameCard.appendChild(gameInfoDiv);
+        gameCard.appendChild(gameButton);
+        searchResults.appendChild(gameCard);
       });
     });
 
