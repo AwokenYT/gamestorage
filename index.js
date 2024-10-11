@@ -1,4 +1,4 @@
-fetch("./https://raw.githack.com/AwokenYT/gamestorage/refs/heads/main/games.json")
+fetch("https://raw.githack.com/AwokenYT/gamestorage/refs/heads/main/games.json")
   .then((response) => response.json())
   .then((data) => {
     const games = data;
