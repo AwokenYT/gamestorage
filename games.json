@@ -1,4 +1,3 @@
-
 [
   {
     "name": "Subway Surfers",
@@ -10,7 +9,7 @@
     "name": "Craft Mine",
     "id": "2",
     "target": "/cdn/craft-mine/index.html",
-    "image": "/cdn/craft-mine/images/logo.jpeg"
+    "image": "https://evanclub.github.io/images/craftmine.png"
   },
   {
     "name": "Monkey Mart",
@@ -46,7 +45,7 @@
     "name": "Retro Bowl",
     "id": "8",
     "target": "/cdn/retro-bowl/index.html",
-    "image": "/cdn/retro-bowl/img/icon.jpg"
+    "image": "https://evanclub.github.io/images/retrobowl.png"
   },
   {
     "name": "Slope",
@@ -82,7 +81,7 @@
     "name": "Among Us",
     "id": "14",
     "target": "/cdn/among-us/index.html",
-    "image": "/cdn/among-us/img/logo.png"
+    "image": "https://evanclub.github.io/images/amongus.png"
   },
   {
     "name": "Basket Random",
@@ -136,13 +135,13 @@
     "name": "1v1space",
     "id": "23",
     "target": "/cdn/1v1space/index.html",
-    "image": "/cdn/1v1space/icon.png"
+    "image": "https://i.ibb.co/9NkmQJC/image.png"
   },
   {
     "name": "2D Rocket League",
     "id": "24",
     "target": "/cdn/2drocketleague/index.html",
-    "image": "/cdn/2drocketleague/icon.png"
+    "image": "https://i.ibb.co/y5h82NN/image.png"
   },
   {
     "name": "A Small World Cup",
@@ -154,145 +153,145 @@
     "name": "Awesome Tanks",
     "id": "26",
     "target": "/cdn/awesometanks/index.html",
-    "image": "/cdn/awesometanks/icon.png"
+    "image": "https://evanclub.github.io/images/awesometanks.png"
   },
   {
     "name": "Awesome Tanks 2",
     "id": "27",
     "target": "/cdn/awesometanks2/index.html",
-    "image": "/cdn/awesometanks2/icon.png"
+    "image": "https://evanclub.github.io/images/awesometanks2.png"
   },
   {
     "name": "Bad Ice Cream",
     "id": "28",
     "target": "/cdn/badicecream/index.html",
-    "image": "/cdn/badicecream/icon.png"
+    "image": "https://i.ibb.co/w7ZBsP1/image.png"
   },
   {
     "name": "Bad Ice Cream 2",
     "id": "29",
     "target": "/cdn/badicecream2/index.html",
-    "image": "/cdn/badicecream2/icon.png"
+    "image": "https://i.ibb.co/XDzBmjP/image.png"
   },
   {
     "name": "Bad Ice Cream 3",
     "id": "30",
     "target": "/cdn/badicecream3/index.html",
-    "image": "/cdn/badicecream3/icon.png"
+    "image": "https://evanclub.github.io/images/badicecream3.png"
   },
   {
     "name": "Bad Piggies",
     "id": "31",
     "target": "/cdn/badpiggies/index.html",
-    "image": "/cdn/badpiggies/icon.png"
+    "image": "https://evanclub.github.io/images/badpiggies.png"
   },
   {
     "name": "Basketball Legends 2020",
     "id": "32",
-    "target": "/cdn/basketball-legends-2020/index.html",
-    "image": "/cdn/basketball-legends-2020/icon.png"
+    "target": "/cdn/basketballlegends/index.html",
+    "image": "https://evanclub.github.io/images/basketballlegends.png"
   },
   {
     "name": "Big Red Button",
     "id": "33",
-    "target": "/cdn/bigredbutton/index.html",
-    "image": "/cdn/bigredbutton/icon.png"
+    "target": "/cdn/thebigredbutton/index.html",
+    "image": "https://evanclub.github.io/images/thebigredbutton.png"
   },
   {
     "name": "BitLife",
     "id": "34",
     "target": "/cdn/bitlife/index.html",
-    "image": "/cdn/bitlife/icon.png"
+    "image": "https://evanclub.github.io/images/bitlife.png"
   },
   {
     "name": "Bob the Robber 2",
     "id": "35",
     "target": "/cdn/bobtherobber2/index.html",
-    "image": "/cdn/bobtherobber2/icon.png"
+    "image": "https://evanclub.github.io/images/bobtherobber2.png"
   },
   {
     "name": "Breaking the Bank",
     "id": "36",
     "target": "/cdn/breakingthebank/index.html",
-    "image": "/cdn/breakingthebank/icon.png"
+    "image": "https://evanclub.github.io/images/breakingthebank.png"
   },
   {
     "name": "Burrito Bison: Launcha Libre",
     "id": "37",
     "target": "/cdn/burritobisonlaunchalibre/index.html",
-    "image": "/cdn/burritobisonlaunchalibre/icon.png"
+    "image": "https://evanclub.github.io/images/burritobison.png"
   },
   {
     "name": "Cannon Basketball 4",
     "id": "38",
     "target": "/cdn/cannon-basketball-4/index.html",
-    "image": "/cdn/cannon-basketball-4/icon.png"
+    "image": "https://evanclub.github.io/images/cannonbasketball4.png"
   },
   {
     "name": "Chrome Dino",
     "id": "39",
     "target": "/cdn/chrome-dino/index.html",
-    "image": "/cdn/chrome-dino/icon.png"
+    "image": "https://evanclub.github.io/images/chromedino.png"
   },
   {
     "name": "Clicker Heroes",
     "id": "40",
     "target": "/cdn/clickerheroes/index.html",
-    "image": "/cdn/clickerheroes/icon.png"
+    "image": "https://evanclub.github.io/images/clickerheroes.png"
   },
   {
     "name": "Cluster Rush",
     "id": "41",
     "target": "/cdn/cluster-rush/index.html",
-    "image": "/cdn/cluster-rush/icon.png"
+    "image": "https://evanclub.github.io/images/clusterrush.png"
   },
   {
-    "name": "CraftMine",
+    "name": "Craft Mine",
     "id": "42",
     "target": "/cdn/craftmine/index.html",
-    "image": "/cdn/craftmine/icon.png"
+    "image": "https://evanclub.github.io/images/craftmine.png"
   },
   {
     "name": "Crossy Road",
     "id": "43",
     "target": "/cdn/crossyroad/index.html",
-    "image": "/cdn/crossyroad/icon.png"
+    "image": "https://evanclub.github.io/images/crossyroad.png"
   },
   {
     "name": "Cubefield",
     "id": "44",
     "target": "/cdn/cubefield/index.html",
-    "image": "/cdn/cubefield/icon.png"
+    "image": "https://evanclub.github.io/images/cubefield.png"
   },
   {
     "name": "Cupcake 2048",
     "id": "45",
     "target": "/cdn/cupcake2048/index.html",
-    "image": "/cdn/cupcake2048/icon.png"
+    "image": "https://evanclub.github.io/images/2048cupcake.png"
   },
   {
     "name": "Cut the Rope",
     "id": "46",
     "target": "/cdn/cuttherope/index.html",
-    "image": "/cdn/cuttherope/icon.png"
+    "image": "https://evanclub.github.io/images/cuttherope.png"
   },
   {
-    "name": "Deal",
+    "name": "Deal or No Deal",
     "id": "47",
-    "target": "/cdn/deal/index.html",
-    "image": "/cdn/deal/icon.png"
+    "target": "/cdn/dealornodeal/index.html",
+    "image": "https://evanclub.github.io/images/dealornodeal.png"
   },
   {
     "name": "Defend the Tank",
     "id": "48",
     "target": "/cdn/defend-the-tank/index.html",
-    "image": "/cdn/defend-the-tank/icon.png"
+    "image": "https://evanclub.github.io/images/defendthetank.png"
   },
   {
     "name": "Doge Miner",
     "id": "49",
     "target": "/cdn/dogeminer/index.html",
-    "image": "/cdn/dogeminer/icon.png"
+    "image": "https://evanclub.github.io/images/dogeminer.png"
   },
   {
     "name": "Draw the Hill",
@@ -310,7 +309,7 @@
     "name": "Drive Mad",
     "id": "52",
     "target": "/cdn/drivemad/index.html",
-    "image": "/cdn/drivemad/icon.png"
+    "image": "https://evanclub.github.io/images/drivemad.png"
   },
   {
     "name": "Eggy Car",
@@ -322,7 +321,7 @@
     "name": "Escaping the Prison",
     "id": "54",
     "target": "/cdn/escapingtheprison/index.html",
-    "image": "/cdn/escapingtheprison/icon.png"
+    "image": "https://evanclub.github.io/images/escapingtheprison.png"
   },
   {
     "name": "Factory Balls Forever",
@@ -340,19 +339,19 @@
     "name": "Flappy Bird",
     "id": "57",
     "target": "/cdn/flappy-bird/index.html",
-    "image": "/cdn/flappy-bird/icon.png"
+    "image": "https://evanclub.github.io/images/flappybird.png"
   },
   {
     "name": "Five Nights at Freddy's 2",
     "id": "58",
     "target": "/cdn/fnaf2/index.html",
-    "image": "/cdn/fnaf2/icon.png"
+    "image": "https://evanclub.github.io/images/fnaf2.png"
   },
   {
     "name": "Funny Shooter 2",
     "id": "59",
     "target": "/cdn/funnyshooter2/index.html",
-    "image": "/cdn/funnyshooter2/icon.png"
+    "image": "https://i.ibb.co/mb8N8TW/image.png"
   },
   {
     "name": "Geometry Dash",
@@ -364,7 +363,7 @@
     "name": "Geometry Rash",
     "id": "61",
     "target": "/cdn/geometryrash/index.html",
-    "image": "/cdn/geometryrash/icon.png"
+    "image": "https://evanclub.github.io/images/geometryrash.png"
   },
   {
     "name": "Getaway Shootout",
@@ -382,13 +381,13 @@
     "name": "Google Snake",
     "id": "64",
     "target": "/cdn/google-snake/index.html",
-    "image": "/cdn/google-snake/icon.png"
+    "image": "https://evanclub.github.io/images/googlesnake.png"
   },
   {
     "name": "Gun Spin",
     "id": "65",
     "target": "/cdn/gunspin/index.html",
-    "image": "/cdn/gunspin/icon.png"
+    "image": "https://evanclub.github.io/images/gunspin.png"
   },
   {
     "name": "Helix Jump",
@@ -400,19 +399,19 @@
     "name": "Hextris",
     "id": "67",
     "target": "/cdn/hextris/index.html",
-    "image": "/cdn/hextris/icon.png"
+    "image": "https://evanclub.github.io/images/hextris.png"
   },
   {
     "name": "Hill Climb Racing 2",
     "id": "68",
     "target": "/cdn/hillclimbracing2/index.html",
-    "image": "/cdn/hillclimbracing2/icon.png"
+    "image": "https://i.ibb.co/Kr7Z6wF/download-4.jpg"
   },
   {
     "name": "House of Hazards",
     "id": "69",
     "target": "/cdn/houseofhazards/index.html",
-    "image": "/cdn/houseofhazards/icon.png"
+    "image": "https://evanclub.github.io/images/houseofhazards.png"
   },
   {
     "name": "Icy Purple Head 2",
@@ -424,13 +423,13 @@
     "name": "Idle Breakout",
     "id": "71",
     "target": "/cdn/idlebreakout/index.html",
-    "image": "/cdn/idlebreakout/icon.png"
+    "image": "https://evanclub.github.io/images/idlebreakout.png"
   },
   {
     "name": "Just Fall.lol",
     "id": "72",
     "target": "/cdn/justfalllol/index.html",
-    "image": "/cdn/justfalllol/icon.png"
+    "image": "https://evanclub.github.io/images/justfalllol.png"
   },
   {
     "name": "Knife Hit",
@@ -472,13 +471,13 @@
     "name": "Moto X3M 2",
     "id": "79",
     "target": "/cdn/motox3m2/index.html",
-    "image": "/cdn/motox3m2/icon.png"
+    "image": "https://evanclub.github.io/images/motox3m2.png"
   },
   {
     "name": "Moto X3M 3",
     "id": "80",
     "target": "/cdn/motox3m3/index.html",
-    "image": "/cdn/motox3m3/icon.png"
+    "image": "https://evanclub.github.io/images/motox3m3.png"
   },
   {
     "name": "N-gon",
@@ -502,13 +501,13 @@
     "name": "Papa's Pizzeria",
     "id": "84",
     "target": "/cdn/papaspizzaria/index.html",
-    "image": "/cdn/papaspizzaria/icon.png"
+    "image": "https://evanclub.github.io/images/papaspizzaria.png"
   },
   {
     "name": "Paper.io 2",
     "id": "85",
     "target": "/cdn/paperio2/index.html",
-    "image": "/cdn/paperio2/icon.png"
+    "image": "https://evanclub.github.io/images/paperio2.png"
   },
   {
     "name": "Papery Planes",
@@ -520,19 +519,19 @@
     "name": "Pixel Cave",
     "id": "87",
     "target": "/cdn/pixelcave/index.html",
-    "image": "/cdn/pixelcave/icon.png"
+    "image": "https://evanclub.github.io/images/pixelcave.png"
   },
   {
     "name": "Push Your Luck",
     "id": "88",
     "target": "/cdn/push-your-luck/index.html",
-    "image": "/cdn/push-your-luck/icon.png"
+    "image": "https://evanclub.github.io/images/pushyourluck.png"
   },
   {
     "name": "Rabbit Samurai",
     "id": "89",
     "target": "/cdn/rabbitsamurai/index.html",
-    "image": "/cdn/rabbitsamurai/icon.png"
+    "image": "https://evanclub.github.io/images/rabbitsamurai.png"
   },
   {
     "name": "Rabbit Samurai 2",
@@ -544,19 +543,19 @@
     "name": "Retro Bowl College",
     "id": "91",
     "target": "/cdn/retrobowlcollege/index.html",
-    "image": "/cdn/retrobowlcollege/icon.png"
+    "image": "https://evanclub.github.io/images/retrobowlcollege.png"
   },
   {
     "name": "Rocket League",
     "id": "92",
     "target": "/cdn/rocketleague/index.html",
-    "image": "/cdn/rocketleague/icon.png"
+    "image": "https://evanclub.github.io/images/rocketleague.png"
   },
   {
     "name": "Rolly Vortex",
     "id": "93",
     "target": "/cdn/rolly-vortex/index.html",
-    "image": "/cdn/rolly-vortex/icon.png"
+    "image": "https://evanclub.github.io/images/rollyvortex.png"
   },
   {
     "name": "Rooftop Snipers 2",
@@ -574,7 +573,7 @@
     "name": "Skyblock",
     "id": "96",
     "target": "/cdn/skyblock/index.html",
-    "image": "/cdn/skyblock/icon.png"
+    "image": "https://evanclub.github.io/images/skyblock.png"
   },
   {
     "name": "Slope 2",
@@ -586,61 +585,61 @@
     "name": "Smash Karts",
     "id": "98",
     "target": "/cdn/smashkarts/index.html",
-    "image": "/cdn/smashkarts/icon.png"
+    "image": "https://evanclub.github.io/images/smashkarts.png"
   },
   {
     "name": "Snake.io",
     "id": "99",
     "target": "/cdn/snakeio/index.html",
-    "image": "/cdn/snakeio/icon.png"
+    "image": "https://evanclub.github.io/images/snakeio.png"
   },
   {
     "name": "Snow",
     "id": "100",
     "target": "/cdn/snow/index.html",
-    "image": "/cdn/snow/icon.png"
+    "image": "https://evanclub.github.io/images/snow.png"
   },
   {
     "name": "Snow Battle",
     "id": "101",
     "target": "/cdn/snowbattle/index.html",
-    "image": "/cdn/snowbattle/icon.png"
+    "image": "https://evanclub.github.io/images/snowbattle.png"
   },
   {
     "name": "Snow Rider 3D",
     "id": "102",
     "target": "/cdn/snowrider3d/index.html",
-    "image": "/cdn/snowrider3d/icon.png"
+    "image": "https://evanclub.github.io/images/snowrider3d.png"
   },
   {
     "name": "Soundboard",
     "id": "103",
     "target": "/cdn/soundboard/index.html",
-    "image": "/cdn/soundboard/icon.png"
+    "image": "https://evanclub.github.io/images/soundboard.png"
   },
   {
     "name": "Space",
     "id": "104",
     "target": "/cdn/space/index.html",
-    "image": "/cdn/space/icon.png"
+    "image": "https://evanclub.github.io/images/space.png"
   },
   {
     "name": "Space is Key",
     "id": "105",
     "target": "/cdn/spaceiskey/index.html",
-    "image": "/cdn/spaceiskey/icon.png"
+    "image": "https://evanclub.github.io/images/spaceiskey.png"
   },
   {
     "name": "Spank the Monkey",
     "id": "106",
     "target": "/cdn/spankthemonkey/index.html",
-    "image": "/cdn/spankthemonkey/icon.png"
+    "image": "https://evanclub.github.io/images/spankthemonkey.png"
   },
   {
     "name": "Spelunky",
     "id": "107",
     "target": "/cdn/spelunky/index.html",
-    "image": "/cdn/spelunky/icon.png"
+    "image": "https://evanclub.github.io/images/spelunky.png"
   },
   {
     "name": "Sprinter",
@@ -658,7 +657,7 @@
     "name": "Stack Bump 3D",
     "id": "110",
     "target": "/cdn/stack-bump-3d/index.html",
-    "image": "/cdn/stack-bump-3d/icon.png"
+    "image": "https://evanclub.github.io/images/stackbump3d.png"
   },
   {
     "name": "Stealing the Diamond",
@@ -670,13 +669,13 @@
     "name": "Subway Surfers Bali",
     "id": "112",
     "target": "/cdn/subwaysurfersbali/index.html",
-    "image": "/cdn/subwaysurfersbali/icon.png"
+    "image": "https://evanclub.github.io/images/subwaysurfersbali.png"
   },
   {
     "name": "Tanuki Sunset",
     "id": "113",
     "target": "/cdn/tanuki-sunset/index.html",
-    "image": "/cdn/tanuki-sunset/icon.png"
+    "image": "https://evanclub.github.io/images/tanukisunset.png"
   },
   {
     "name": "Tetris",
@@ -700,7 +699,7 @@
     "name": "Toss the Turtle",
     "id": "117",
     "target": "/cdn/tosstheturtle/index.html",
-    "image": "/cdn/tosstheturtle/icon.png"
+    "image": "https://evanclub.github.io/images/tosstheturtle.png"
   },
   {
     "name": "Townscaper",
@@ -718,7 +717,7 @@
     "name": "Tunnel Rush",
     "id": "120",
     "target": "/cdn/tunnel-rush/index.html",
-    "image": "/cdn/tunnel-rush/icon.png"
+    "image": "https://evanclub.github.io/images/tunnelrush.png"
   },
   {
     "name": "Tunnelz",
@@ -730,12 +729,12 @@
     "name": "World's Hardest Game",
     "id": "122",
     "target": "/cdn/worlds-hardest-game/index.html",
-    "image": "/cdn/worlds-hardest-game/icon.png"
+    "image": "https://evanclub.github.io/images/worldshardestgame.png"
   },
   {
     "name": "World's Hardest Game 2",
     "id": "123",
     "target": "/cdn/worlds-hardest-game-2/index.html",
-    "image": "/cdn/worlds-hardest-game-2/icon.png"
+    "image": "https://evanclub.github.io/images/worldshardestgame2.png"
   }
 ]
