@@ -645,7 +645,7 @@
     "name": "Sprinter",
     "id": "108",
     "target": "/cdn/sprinter/index.html",
-    "image": "/cdn/sprinter/icon.png"
+    "image": "https://evanclub.github.io/images/sprinter.png"
   },
   {
     "name": "Stack",
