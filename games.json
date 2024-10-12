@@ -136,13 +136,13 @@
     "name": "1v1space",
     "id": "23",
     "target": "/cdn/1v1space/index.html",
-    "image": "/cdn/1v1space/icon.png"
+    "image": "https://i.ibb.co/9NkmQJC/image.png"
   },
   {
     "name": "2D Rocket League",
     "id": "24",
     "target": "/cdn/2drocketleague/index.html",
-    "image": "/cdn/2drocketleague/icon.png"
+    "image": "https://i.ibb.co/y5h82NN/image.png"
   },
   {
     "name": "A Small World Cup",
@@ -166,19 +166,19 @@
     "name": "Bad Ice Cream",
     "id": "28",
     "target": "/cdn/badicecream/index.html",
-    "image": "/cdn/badicecream/icon.png"
+    "image": "https://i.ibb.co/w7ZBsP1/image.png"
   },
   {
     "name": "Bad Ice Cream 2",
     "id": "29",
     "target": "/cdn/badicecream2/index.html",
-    "image": "/cdn/badicecream2/icon.png"
+    "image": "https://i.ibb.co/XDzBmjP/image.png"
   },
   {
     "name": "Bad Ice Cream 3",
     "id": "30",
     "target": "/cdn/badicecream3/index.html",
-    "image": "/cdn/badicecream3/icon.png"
+    "image": "https://i.ibb.co/JjhNxN5/image.png"
   },
   {
     "name": "Bad Piggies",
@@ -310,7 +310,7 @@
     "name": "Drive Mad",
     "id": "52",
     "target": "/cdn/drivemad/index.html",
-    "image": "/cdn/drivemad/icon.png"
+    "image": "https://i.ibb.co/2gZSgLs/image.png"
   },
   {
     "name": "Eggy Car",
@@ -322,7 +322,7 @@
     "name": "Escaping the Prison",
     "id": "54",
     "target": "/cdn/escapingtheprison/index.html",
-    "image": "/cdn/escapingtheprison/icon.png"
+    "image": "https://i.ibb.co/DDRwKf1/image.png"
   },
   {
     "name": "Factory Balls Forever",
@@ -346,13 +346,13 @@
     "name": "Five Nights at Freddy's 2",
     "id": "58",
     "target": "/cdn/fnaf2/index.html",
-    "image": "/cdn/fnaf2/icon.png"
+    "image": "https://i.ibb.co/N73hzy7/image.png"
   },
   {
     "name": "Funny Shooter 2",
     "id": "59",
     "target": "/cdn/funnyshooter2/index.html",
-    "image": "/cdn/funnyshooter2/icon.png"
+    "image": "https://i.ibb.co/mb8N8TW/image.png"
   },
   {
     "name": "Geometry Dash",
@@ -526,7 +526,7 @@
     "name": "Push Your Luck",
     "id": "88",
     "target": "/cdn/push-your-luck/index.html",
-    "image": "/cdn/push-your-luck/icon.png"
+    "image": "https://i.ibb.co/6PCGMpn/image.png"
   },
   {
     "name": "Rabbit Samurai",
@@ -556,7 +556,7 @@
     "name": "Rolly Vortex",
     "id": "93",
     "target": "/cdn/rolly-vortex/index.html",
-    "image": "/cdn/rolly-vortex/icon.png"
+    "image": "https://i.ibb.co/nbrGvtS/image.png"
   },
   {
     "name": "Rooftop Snipers 2",
