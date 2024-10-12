@@ -1,131 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>404 Error | nostalking</title>
-
-    <link rel="stylesheet" href="/assets/css/main.css">
-
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>nostalking.lol</title>
     <style>
-        /* Pop-up Styling */
-        .popup {
-            position: fixed;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            background-color: #ffffff;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-            text-align: center;
-            z-index: 1000;
-            display: none;
-        }
-
-        .popup h2 {
-            color: #333;
-            font-size: 24px;
-        }
-
-        .popup p {
-            color: #555;
-            font-size: 16px;
-        }
-
-        .popup button {
-            background-color: #007bff;
-            color: white;
-            padding: 10px 20px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-
-        .popup button:hover {
-            background-color: #0056b3;
-        }
-
-        /* Overlay */
-        .overlay {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-color: rgba(0, 0, 0, 0.5);
-            z-index: 999;
-            display: none;
-        }
+      body,
+      html {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+      }
+      #ruffle-player {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+      }
     </style>
-</head>
+  </head>
+  <body>
+    <div id="ruffle-player"></div>
 
-<body>
-    <div class="navbar">
-        <a class="title" href="/">
-            <img src="/assets/img/logo.png">
-            <span>nostalking<span>By slurd</span></span>
-        </a>
-        <div class="right">
-            <a href="/games" class="navButton">Games</a>
-            <a href="/apps" class="navButton">Apps</a>
-            <a href="#settings" class="navButton" data-action="no_redirect" data-attr="sidebar_trigger">Settings</a>
-        </div>
-    </div>
-
-    <!-- Overlay for background blur -->
-    <div class="overlay" id="overlay"></div>
-
-    <!-- Pop-up Content -->
-    <div class="popup" id="popup">
-        <h2>404 Error</h2>
-        <p id="popup-message"></p>
-        <button onclick="redirectToSource()">Go to Source</button>
-    </div>
-
-    <div class="container centered">
-        <h1 style="font-size: 50px;">404</h1>
-        <p>
-            Looks like you found a page that does not exist! Check the URL for mistakes or go to the source.
-            <br><br>
-            Or, report the issue in our <a href="/discord" target="_blank" class="link">Discord server</a>.
-        </p>
-    </div>
-
-    <script>
-        // Function to get game name from the URL
-        function getGameNameFromURL() {
-            const url = window.location.pathname; // Get the current path
-            const parts = url.split('/'); // Split the path by '/'
-            const gameName = parts[parts.length - 2]; // The game name is usually the second to last part
-            return gameName.replace(/-/g, ' '); // Replace dashes with spaces for readability
-        }
-
-        // Show the pop-up after the page loads
-        window.onload = function () {
-            const gameName = getGameNameFromURL(); // Get the game name dynamically
-            const messageElement = document.getElementById('popup-message');
-
-            // Set the pop-up message dynamically
-            if (gameName) {
-                messageElement.textContent = `The game "${gameName}" is not available. Head back to the source!`;
-            } else {
-                messageElement.textContent = "The page you are looking for doesn't exist. Head back to the source!";
-            }
-
-            document.getElementById('popup').style.display = 'block';
-            document.getElementById('overlay').style.display = 'block';
-        };
-
-        // Redirect function
-        function redirectToSource() {
-            window.location.href = "https://nostalkinglearning.org/";
-        }
-    </script>
-
-</body>
-
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+    <script src="index.js"></script>
+  </body>
 </html>
