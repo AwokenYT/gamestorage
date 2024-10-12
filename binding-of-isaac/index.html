@@ -1,31 +1,112 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>nostalking.lol</title>
-    <style>
-      body,
-      html {
-        margin: 0;
-        padding: 0;
-        width: 100%;
-        height: 100%;
-        overflow: hidden;
-      }
-      #ruffle-player {
-        width: 100%;
-        height: 100%;
-        position: absolute;
-        top: 0;
-        left: 0;
-      }
-    </style>
-  </head>
-  <body>
-    <div id="ruffle-player"></div>
 
-    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
-    <script src="index.js"></script>
-  </body>
+<head>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="language" content="English">
+    <meta name="google" content="notranslate">
+    <meta name="title" content="nostalking">
+    <meta name="subject" content="unblocking">
+    <meta name="description" content="The professional unblocked gaming site.">
+    <meta name="author" content="nostalking Development Group">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://nostalkinglearning.org/">
+    <meta property="og:title" content="nostalking">
+    <meta property="og:description" content="The professional unblocked gaming site.">
+    <meta property="og:image" content="https://nostalkinglearning.org/assets/img/logo.png">
+
+    <!-- Nitro Ads -->
+    <script data-cfasync="false">window.nitroAds = window.nitroAds || { createAd: function () { return new Promise(e => { window.nitroAds.queue.push(["createAd", arguments, e]) }) }, addUserToken: function () { window.nitroAds.queue.push(["addUserToken", arguments]) }, queue: [] };</script>
+    <script data-cfasync="false" async src="https://s.nitropay.com/ads-1751.js"></script>
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-KZRKZE212Q"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-KZRKZE212Q');
+    </script>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <title>404 Error | nostalking</title>
+</head>
+
+<body>
+    <div class="navbar">
+        <a class="title" href="/">
+            <img src="/assets/img/logo.png" alt="nostalking logo">
+            <span>nostalking <span>By slurd</span></span>
+        </a>
+        <div class="right">
+            <a href="/games" class="navButton"><i class="fa-solid fa-gamepad-modern fa-xs"></i>Games</a>
+            <a href="/apps" class="navButton"><i class="fa-solid fa-rocket-launch fa-xs"></i>Apps</a>
+            <a href="#settings" class="navButton" data-action="no_redirect" data-attr="sidebar_trigger"><i class="fa-solid fa-gear fa-sm"></i>Settings</a>
+        </div>
+    </div>
+
+    <div class="sidebar">
+        <div class="scroll"><i class="fa-solid fa-chevron-down"></i></div>
+        <h1>Settings</h1>
+
+        <h3>Panic Key</h3>
+        <input class="settings-input" type="text" id="panic_key" value="Click and press any key" readonly>
+        <button class="settings-button" id="reset_panic">Reset</button>
+
+        <h3>Panic URL</h3>
+        <input class="settings-input" type="url" id="panic_url" placeholder="e.g., https://google.com">
+
+        <h3>Theme</h3>
+        <div id="themes">
+            <button class="settings-button">Dark</button>
+            <button class="settings-button">Light</button>
+            <!-- Add other themes here -->
+        </div>
+
+        <h3>Tab Cloak</h3>
+        <select id="cloak_select">
+            <option value="none">None</option>
+            <option value="custom">Custom</option>
+            <option value="canvas">Canvas Dashboard</option>
+            <option value="google">Google</option>
+            <option value="classroom">Google Classroom</option>
+        </select>
+
+        <div class="hidden" id="custom_cloak">
+            <input class="settings-input" type="text" id="title" placeholder="Title">
+            <input class="settings-input" type="text" id="domain" placeholder="e.g., google.com">
+        </div>
+
+        <h3>Prevent Close</h3>
+        <div class="switch">
+            <input type="checkbox" id="prevent_close">
+            <span class="slider"></span>
+        </div>
+
+        <h3>Export/Import Data</h3>
+        <small id="export_error"></small>
+
+        <div>
+            <button class="settings-button" id="export">Export</button>
+            <button class="settings-button" id="import">Import</button>
+            <button class="settings-button" id="clear">Clear Data</button>
+        </div>
+
+        <hr>
+        <p>Running nostalking <span id="version">unknown</span><br><small>Commit: <span id="version_sha">unknown</span><br>Up to Date: <span id="up_to_date">no</span><br>Server Mode: <span id="mode">unknown</span></small></p>
+    </div>
+
+    <div class="container centered">
+        <h1 style="font-size: 50px;">404</h1>
+        <p>It looks like you found a page that does not exist! Try checking your URL for spelling mistakes.<br><br>Or, you can report it in our <a href="/view?load=eyJ0YXJnZXQiOiJodHRwczovL2Rpc2NvcmQuZ2cvUWVYQlFKcGFURCIsInJlZGlyZWN0Ijp0cnVlLCJ0cnVzdGVkIjp0cnVlfQ==" target="_blank" class="link">discord server</a>.</p>
+    </div>
+
+    <!-- Scripts -->
+    <script src="/assets/js/main.js" type="module"></script>
+</body>
+
 </html>
