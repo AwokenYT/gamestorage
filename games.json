@@ -297,13 +297,13 @@
     "name": "Draw the Hill",
     "id": "50",
     "target": "/cdn/draw-the-hill/index.html",
-    "image": "/cdn/draw-the-hill/icon.png"
+    "image": "https://evanclub.github.io/images/drawthehill.png"
   },
   {
     "name": "Drift Boss",
     "id": "51",
     "target": "/cdn/drift-boss/index.html",
-    "image": "/cdn/drift-boss/icon.png"
+    "image": "https://evanclub.github.io/images/driftboss.png"
   },
   {
     "name": "Drive Mad",
@@ -315,7 +315,7 @@
     "name": "Eggy Car",
     "id": "53",
     "target": "/cdn/eggycar/index.html",
-    "image": "/cdn/eggycar/icon.png"
+    "image": "https://evanclub.github.io/images/eggycar.png"
   },
   {
     "name": "Escaping the Prison",
@@ -327,7 +327,7 @@
     "name": "Factory Balls Forever",
     "id": "55",
     "target": "/cdn/factoryballsforever/index.html",
-    "image": "/cdn/factoryballsforever/icon.png"
+    "image": "https://evanclub.github.io/images/factoryballsforever.png"
   },
   {
     "name": "Fireboy and Watergirl",
@@ -357,7 +357,7 @@
     "name": "Geometry Dash",
     "id": "60",
     "target": "/cdn/geometrydash/index.html",
-    "image": "/cdn/geometrydash/icon.png"
+    "image": "https://evanclub.github.io/images/geometrydash.png"
   },
   {
     "name": "Geometry Rash",
@@ -369,13 +369,13 @@
     "name": "Getaway Shootout",
     "id": "62",
     "target": "/cdn/getawayshootout/index.html",
-    "image": "/cdn/getawayshootout/icon.png"
+    "image": "https://evanclub.github.io/images/getawayshootout.png"
   },
   {
     "name": "Gold Digger FRVR",
     "id": "63",
     "target": "/cdn/golddiggerfrvr/index.html",
-    "image": "/cdn/golddiggerfrvr/icon.png"
+    "image": "https://evanclub.github.io/images/golddigger.png"
   },
   {
     "name": "Google Snake",
@@ -393,7 +393,7 @@
     "name": "Helix Jump",
     "id": "66",
     "target": "/cdn/helixjump/index.html",
-    "image": "/cdn/helixjump/icon.png"
+    "image": "https://evanclub.github.io/images/helixjump.png"
   },
   {
     "name": "Hextris",
@@ -417,7 +417,7 @@
     "name": "Icy Purple Head 2",
     "id": "70",
     "target": "/cdn/icypurplehead2/index.html",
-    "image": "/cdn/icypurplehead2/icon.png"
+    "image": "https://evanclub.github.io/images/icypurplehead2.png"
   },
   {
     "name": "Idle Breakout",
@@ -435,37 +435,37 @@
     "name": "Knife Hit",
     "id": "73",
     "target": "/cdn/knifehit/index.html",
-    "image": "/cdn/knifehit/icon.png"
+    "image": "https://evanclub.github.io/images/knifehit.png"
   },
   {
     "name": "Line Rider",
     "id": "74",
     "target": "/cdn/linerider/index.html",
-    "image": "/cdn/linerider/icon.png"
+    "image": "https://assets-prd.ignimgs.com/2023/09/09/linerider-1694303839127.jpg"
   },
   {
     "name": "Little Alchemy",
     "id": "75",
     "target": "/cdn/littlealchemy/index.html",
-    "image": "/cdn/littlealchemy/icon.png"
+    "image": "https://evanclub.github.io/images/littlealchemy.png"
   },
   {
     "name": "Meme 2048",
     "id": "76",
     "target": "/cdn/meme2048/index.html",
-    "image": "/cdn/meme2048/icon.png"
+    "image": "https://evanclub.github.io/images/meme2048.png"
   },
   {
     "name": "Mini Putt",
     "id": "77",
     "target": "/cdn/miniputt/index.html",
-    "image": "/cdn/miniputt/icon.png"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQloGD6c8PzkYIXhhUvd8gpzrtqT5EXjCDAP5tiDLKChO0AhTEZ46Uun9n-KavpKhb7A0g&usqp=CAU"
   },
   {
     "name": "Moto X3M",
     "id": "78",
     "target": "/cdn/motox3m/index.html",
-    "image": "/cdn/motox3m/icon.png"
+    "image": "https://evanclub.github.io/images/motox3m.png"
   },
   {
     "name": "Moto X3M 2",
@@ -483,19 +483,19 @@
     "name": "N-gon",
     "id": "81",
     "target": "/cdn/ngon/index.html",
-    "image": "/cdn/ngon/icon.png"
+    "image": "https://evanclub.github.io/images/ngon.png"
   },
   {
     "name": "OvO 2",
     "id": "82",
     "target": "/cdn/ovo2/index.html",
-    "image": "/cdn/ovo2/icon.png"
+    "image": "https://evanclub.github.io/images/ovo.png"
   },
   {
     "name": "Pac-Man",
     "id": "83",
     "target": "/cdn/pacman/index.html",
-    "image": "/cdn/pacman/icon.png"
+    "image": "https://evanclub.github.io/images/pacman.png"
   },
   {
     "name": "Papa's Pizzeria",
@@ -513,7 +513,7 @@
     "name": "Papery Planes",
     "id": "86",
     "target": "/cdn/papery-planes/index.html",
-    "image": "/cdn/papery-planes/icon.png"
+    "image": "https://cdn-1.webcatalog.io/catalog/poki-papery-planes/poki-papery-planes-icon-filled-256.png?v=1714778778327"
   },
   {
     "name": "Pixel Cave",
@@ -537,7 +537,7 @@
     "name": "Rabbit Samurai 2",
     "id": "90",
     "target": "/cdn/rabbitsamurai2/index.html",
-    "image": "/cdn/rabbitsamurai2/icon.png"
+    "image": "https://evanclub.github.io/images/rabbitsamurai2.png"
   },
   {
     "name": "Retro Bowl College",
@@ -561,13 +561,13 @@
     "name": "Rooftop Snipers 2",
     "id": "94",
     "target": "/cdn/rooftopsnipers2/index.html",
-    "image": "/cdn/rooftopsnipers2/icon.png"
+    "image": "https://evanclub.github.io/images/rooftopsnipers2.png"
   },
   {
     "name": "Skibidi Toilet",
     "id": "95",
     "target": "/cdn/skibiditoilet/index.html",
-    "image": "/cdn/skibiditoilet/icon.png"
+    "image": "https://evanclub.github.io/images/skibiditoilet.png"
   },
   {
     "name": "Skyblock",
@@ -579,7 +579,7 @@
     "name": "Slope 2",
     "id": "97",
     "target": "/cdn/slope2/index.html",
-    "image": "/cdn/slope2/icon.png"
+    "image": "https://evanclub.github.io/images/slope2.png"
   },
   {
     "name": "Smash Karts",
@@ -639,7 +639,7 @@
     "name": "Spelunky",
     "id": "107",
     "target": "/cdn/spelunky/index.html",
-    "image": "https://evanclub.github.io/images/spelunky.png"
+    "image": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/spelunky_1_button_1609885393868.jpg"
   },
   {
     "name": "Sprinter",
@@ -651,7 +651,7 @@
     "name": "Stack",
     "id": "109",
     "target": "/cdn/stack/index.html",
-    "image": "/cdn/stack/icon.png"
+    "image": "https://evanclub.github.io/images/stack.png"
   },
   {
     "name": "Stack Bump 3D",
@@ -663,7 +663,7 @@
     "name": "Stealing the Diamond",
     "id": "111",
     "target": "/cdn/stealingthediamond/index.html",
-    "image": "/cdn/stealingthediamond/icon.png"
+    "image": "https://evanclub.github.io/images/stealingthediamond.png"
   },
   {
     "name": "Subway Surfers Bali",
@@ -681,19 +681,19 @@
     "name": "Tetris",
     "id": "114",
     "target": "/cdn/tetris/index.html",
-    "image": "/cdn/tetris/icon.png"
+    "image": "https://evanclub.github.io/images/tetris.png"
   },
   {
     "name": "The Impossible Quiz",
     "id": "115",
     "target": "/cdn/theimpossiblequiz/index.html",
-    "image": "/cdn/theimpossiblequiz/icon.png"
+    "image": "https://evanclub.github.io/images/theimpossiblequiz.png"
   },
   {
     "name": "Tiny Fishing",
     "id": "116",
     "target": "/cdn/tinyfishing/index.html",
-    "image": "/cdn/tinyfishing/icon.png"
+    "image": "https://evanclub.github.io/images/tinyfishing.png"
   },
   {
     "name": "Toss the Turtle",
@@ -705,13 +705,13 @@
     "name": "Townscaper",
     "id": "118",
     "target": "/cdn/townscaper/index.html",
-    "image": "/cdn/townscaper/icon.png"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa8-kuL3zmcn-C3oDYkIkX9V4gfRKRMSMP5A&s"
   },
   {
     "name": "Tube Jumpers",
     "id": "119",
     "target": "/cdn/tube-jumpers/index.html",
-    "image": "/cdn/tube-jumpers/icon.png"
+    "image": "https://lh3.googleusercontent.com/1YJcGWgImTdgqGfZGKZ8uMuZvxoX56R-T23vcO307bDdTScMZGNhiSUUkPXhfNJqnMu3Lx2IIFYNX9PyaqzuENpfbQ=s1280-w1280-h800"
   },
   {
     "name": "Tunnel Rush",
@@ -720,21 +720,15 @@
     "image": "https://evanclub.github.io/images/tunnelrush.png"
   },
   {
-    "name": "Tunnelz",
-    "id": "121",
-    "target": "/cdn/tunnelz/index.html",
-    "image": "/cdn/tunnelz/icon.png"
-  },
-  {
     "name": "World's Hardest Game",
     "id": "122",
     "target": "/cdn/worlds-hardest-game/index.html",
-    "image": "https://evanclub.github.io/images/worldshardestgame.png"
+    "image": "https://play-lh.googleusercontent.com/WoyHFBEgzmhlM0VCsmH3zPqPFquIYZHQLCbcpVOBKgY4ku7Xb3XIB7rMWwZ6oLsAACA"
   },
   {
     "name": "World's Hardest Game 2",
     "id": "123",
     "target": "/cdn/worlds-hardest-game-2/index.html",
-    "image": "https://evanclub.github.io/images/worldshardestgame2.png"
+    "image": "https://images.igdb.com/igdb/image/upload/t_1080p_2x/co5qm2.jpg"
   }
 ]
