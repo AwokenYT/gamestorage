@@ -712,5 +712,11 @@
     "id": "120",
     "target": "/cdn/worlds-hardest-game-2/index.html",
     "image": "https://images.igdb.com/igdb/image/upload/t_1080p_2x/co5qm2.jpg"
+  },
+  {
+    "name": "Plants Vs Zombies",
+    "id": "121",
+    "target": "/cdn/pvz/index.html",
+    "image": "https://i.ibb.co/ZWMdw9k/image.png"
   }
 ]
